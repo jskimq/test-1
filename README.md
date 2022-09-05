@@ -8,4 +8,4 @@
 
 [네이버](www.naver.com, "검색포털")
 
-![horang-i](./images/다운로드.jpg)
+![호랑이](./images/다운로드.jpg)
